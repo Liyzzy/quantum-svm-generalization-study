@@ -1,5 +1,5 @@
 # Generalization Comparison Study Between Quantum SVM and Linear SVM
-This project investigates the performance and generalization capabilities of Quantum Support Vector Machines (QSVM) versus Classical SVM in binary classification tasks. Implemented using Qiskit on simulated quantum backends (Qiskit Aer) and compared with traditional SVMs in scikit-learn, the study evaluates two datasets Spambase and Lung Cancer.
+The following project investigates the performance and generalization capabilities of Quantum Support Vector Machines (QSVM) with Classical SVM in binary classification tasks. Implemented using Qiskit on simulated quantum backends (Qiskit Aer) and compared with traditional SVMs in scikit-learn using two datasets as performance benchmarks, Spambase and Lung Cancer. However, the current implementation for the project is still ONGOING and under development. Any queries about this project, you can reach my through my LinkedIn page. Thank you !
 
 ## Overview
 - **Objective:** Compare QSVM and classical SVM in terms of accuracy, precision, recall, F1-score, and generalization gap.
