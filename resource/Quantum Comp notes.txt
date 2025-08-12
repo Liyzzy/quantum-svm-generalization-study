@@ -1,0 +1,70 @@
+CLASSICAL VS QUANTUM
+
+Classical Computers store bits one at a time
+Quantum store qubit = quantum bits 
+Think qubits are like arrow in 3D space, if they point up theyre in zero state and down for 1
+Can be superpositon that is combination of 0 or 1
+
+Need to understand 3 things in quantum
+- Superposition
+- Entanglement
+- Interference
+
+Superposition
+- Combination of 0 or 1
+- They output also is either zero or 1 BUT
+- Which one we get is based on a probability by direction of arrow. 50% 1 , 50% 2
+
+Entanglement
+- In classical computers, the state of 1 bit is not being influenced by another bit
+- But its different for quantum computers
+- Qubits are entangled by each other where they can be part of one quantum state together
+- See the percentage then calculate the probability distribution
+- Because it is entangled, changing the arrows of either one qubit will effect the probability distribution.
+- Therefore qubits are not independent
+
+Inteference 
+- Qubit explains Quantum Wavefunctions
+- How many qubits means the same for how many wavefunctions, we add them up then we have an
+overall wavefunction
+- Mcm physics dulu, constructive and destructive wavefunctions
+- When we want to get output here is what to consider
+  We need to increase the constructive to get the highest probability of answer being correct
+  And decrease the destructive function to get the lowest probability of having incorrect
+
+To do all the process of wavelengths mentioned, we use Quantum Algorithms
+
+[Quantum Algorithms]
+
+1. Shor's algorithm
+- If we got two big numbers to multiply lets say 7177 x 3001, we have a fast classical algo to solve the problem
+- But if we start with the answer and need to find what are the original numbers that multiply together to make this number, is very a lot difficult (Factors)
+- This is because the search base of possible factors is so large
+- No efficient classical algorithm to solve
+- Shor algo solves this
+- Shors algo is polynomial log(N)
+- Best algorithm to solve problem gets bigger is exponential
+- But shors algorithm is polynomial 
+
+Complexity Theory
+- How much harder it is to solve the problem as the problem gets larger
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

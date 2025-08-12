@@ -1,0 +1,13 @@
+Kernel in Machine Learning
+- straightforward function that operates on two vectors from the input space
+- The primary role of this function is to return a scalar value, but the fascinating aspect of this process lies in what this scalar represents and how it is computed
+- This scalar is, in essence, the dot product of the two input vectors
+- Mapping function helps this by converting 2D coord to 3D coordinates
+- However, there are many disadvantages with this process
+- It involves more computational cost and learning cost
+
+Hyperplane
+- Separates feature space into distinct regions each corresponds to their class.
+- Basically the decision boundary
+
+
