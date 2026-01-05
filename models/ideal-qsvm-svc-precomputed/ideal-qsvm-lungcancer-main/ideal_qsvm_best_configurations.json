@@ -1,0 +1,35 @@
+{
+    "best_accuracy": {
+        "experiment_id": "Exp_f5_s4096_r1_full",
+        "test_acc": 1.0,
+        "recall": 1.0,
+        "n_features": 5,
+        "shots": 4096,
+        "reps": 1,
+        "entanglement": "full",
+        "optimal_C": 100.0,
+        "kernel_time": 6.101919174194336
+    },
+    "best_recall": {
+        "experiment_id": "Exp_f2_s8192_r1_full",
+        "recall": 1.0,
+        "test_acc": 0.8,
+        "n_features": 2,
+        "shots": 8192,
+        "reps": 1,
+        "entanglement": "full"
+    },
+    "best_generalization": {
+        "experiment_id": "Exp_f5_s4096_r1_full",
+        "gen_gap": 0.0,
+        "test_acc": 1.0,
+        "n_features": 5
+    },
+    "fastest_computation": {
+        "experiment_id": "Exp_f2_s1024_r1_linear",
+        "kernel_time": 1.6030123233795166,
+        "test_acc": 0.3,
+        "shots": 1024,
+        "reps": 1
+    }
+}
