@@ -1,0 +1,38 @@
+{
+    "best_accuracy": {
+        "experiment_id": "Exp3_Full",
+        "test_acc": 0.8449612403100775,
+        "spam_recall": 0.8431372549019608,
+        "samples": 300,
+        "k_features": 3,
+        "shots": 1024,
+        "reps": 1,
+        "entanglement": "full",
+        "optimal_C": 1.0,
+        "kernel_time": 631.0824131965637
+    },
+    "best_recall": {
+        "experiment_id": "Exp2_Reps2",
+        "spam_recall": 0.8823529411764706,
+        "test_acc": 0.8372093023255814,
+        "samples": 300,
+        "k_features": 3,
+        "shots": 1024,
+        "reps": 2,
+        "entanglement": "linear"
+    },
+    "best_generalization": {
+        "experiment_id": "Exp3_Circular",
+        "gen_gap": 0.0027906976744185297,
+        "test_acc": 0.8372093023255814,
+        "samples": 300,
+        "k_features": 3
+    },
+    "fastest_computation": {
+        "experiment_id": "Exp1_128shots",
+        "kernel_time": 342.12351059913635,
+        "test_acc": 0.8294573643410853,
+        "shots": 128,
+        "reps": 1
+    }
+}

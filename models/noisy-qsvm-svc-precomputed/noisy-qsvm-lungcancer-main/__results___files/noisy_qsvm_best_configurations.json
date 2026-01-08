@@ -1,0 +1,39 @@
+{
+    "best_accuracy": {
+        "experiment_id": "Noisy_f4_s1024_r2_linear_low",
+        "test_acc": 0.9,
+        "recall": 0.8571428571428571,
+        "n_features": 4,
+        "shots": 1024,
+        "reps": 2,
+        "entanglement": "linear",
+        "noise_level": "low",
+        "optimal_C": 100.0,
+        "kernel_time": 3.7696146965026855
+    },
+    "best_recall": {
+        "experiment_id": "Noisy_f2_s4096_r1_linear_standard",
+        "recall": 1.0,
+        "test_acc": 0.7,
+        "n_features": 2,
+        "shots": 4096,
+        "reps": 1,
+        "entanglement": "linear",
+        "noise_level": "standard"
+    },
+    "best_generalization": {
+        "experiment_id": "Noisy_f4_s4096_r1_linear_low",
+        "gen_gap": 0.009090909090909038,
+        "test_acc": 0.6,
+        "n_features": 4,
+        "noise_level": "low"
+    },
+    "fastest_computation": {
+        "experiment_id": "Noisy_f2_s1024_r2_linear_high",
+        "kernel_time": 2.554908275604248,
+        "test_acc": 0.3,
+        "shots": 1024,
+        "reps": 2,
+        "noise_level": "high"
+    }
+}
