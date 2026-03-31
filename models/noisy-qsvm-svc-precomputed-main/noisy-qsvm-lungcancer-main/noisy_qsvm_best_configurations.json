@@ -1,0 +1,39 @@
+{
+    "best_accuracy": {
+        "experiment_id": "Noisy_f5_s4096_r1_full_standard",
+        "test_acc": 0.7,
+        "recall": 1.0,
+        "n_features": 5,
+        "shots": 4096,
+        "reps": 1,
+        "entanglement": "full",
+        "noise_level": "standard",
+        "optimal_C": 100.0,
+        "kernel_time": 0.0
+    },
+    "best_recall": {
+        "experiment_id": "Noisy_f5_s4096_r1_full_standard",
+        "recall": 1.0,
+        "test_acc": 0.7,
+        "n_features": 5,
+        "shots": 4096,
+        "reps": 1,
+        "entanglement": "full",
+        "noise_level": "standard"
+    },
+    "best_generalization": {
+        "experiment_id": "Noisy_f5_s4096_r1_full_standard",
+        "gen_gap": 0.30000000000000004,
+        "test_acc": 0.7,
+        "n_features": 5,
+        "noise_level": "standard"
+    },
+    "fastest_computation": {
+        "experiment_id": "Noisy_f5_s4096_r1_full_low",
+        "kernel_time": 0.0,
+        "test_acc": 0.5,
+        "shots": 4096,
+        "reps": 1,
+        "noise_level": "low"
+    }
+}

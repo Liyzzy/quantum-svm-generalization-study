@@ -1,0 +1,9 @@
+Model,Dataset,Type,Test Acc,Precision,Recall,F1,Gen Gap
+Classical SVM - Lung Cancer,Lung Cancer,Classical,0.800,0.857,0.857,0.857,0.073
+Ideal QSVM - Lung Cancer,Lung Cancer,Ideal QSVM,1.000,1.000,1.000,1.000,0.000
+Noisy QSVM - Lung Cancer,Lung Cancer,Noisy QSVM,0.900,1.000,0.857,0.923,0.100
+EM QSVM - Lung Cancer,Lung Cancer,EM QSVM,1.000,1.000,1.000,1.000,0.364
+Classical SVM - Spambase,Spambase,Classical,0.942,0.984,0.870,0.923,0.050
+Ideal QSVM - Spambase,Spambase,Ideal QSVM,0.845,0.000,0.843,0.000,0.032
+EM QSVM - Spambase,Spambase,EM QSVM,0.853,0.000,0.863,0.000,0.004
+Noisy QSVM - Spambase,Spambase,Noisy QSVM,0.853,0.000,0.863,0.000,0.017

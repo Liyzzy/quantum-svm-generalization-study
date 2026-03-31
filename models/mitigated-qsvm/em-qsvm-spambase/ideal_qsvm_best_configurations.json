@@ -1,0 +1,38 @@
+{
+    "best_accuracy": {
+        "experiment_id": "Baseline",
+        "test_acc": 0.8294573643410853,
+        "spam_recall": 0.8627450980392157,
+        "samples": 300,
+        "k_features": 3,
+        "shots": 1024,
+        "reps": 1,
+        "entanglement": "linear",
+        "optimal_C": 1.0,
+        "kernel_time": 0.0
+    },
+    "best_recall": {
+        "experiment_id": "Baseline",
+        "spam_recall": 0.8627450980392157,
+        "test_acc": 0.8294573643410853,
+        "samples": 300,
+        "k_features": 3,
+        "shots": 1024,
+        "reps": 1,
+        "entanglement": "linear"
+    },
+    "best_generalization": {
+        "experiment_id": "Baseline",
+        "gen_gap": 0.030542635658914685,
+        "test_acc": 0.8294573643410853,
+        "samples": 300,
+        "k_features": 3
+    },
+    "fastest_computation": {
+        "experiment_id": "Baseline",
+        "kernel_time": 0.0,
+        "test_acc": 0.8294573643410853,
+        "shots": 1024,
+        "reps": 1
+    }
+}
